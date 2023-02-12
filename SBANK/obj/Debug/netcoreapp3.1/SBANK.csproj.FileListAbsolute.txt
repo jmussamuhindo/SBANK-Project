@@ -1,0 +1,14 @@
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.exe
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.deps.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.runtimeconfig.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.runtimeconfig.dev.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.dll
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.pdb
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.csproj.AssemblyReference.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.AssemblyInfoInputs.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.AssemblyInfo.cs
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.csproj.CoreCompileInputs.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.dll
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.pdb
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project12\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.genruntimeconfig.cache
